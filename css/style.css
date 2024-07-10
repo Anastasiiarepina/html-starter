@@ -36,3 +36,31 @@ body {
   font-weight: 300;
   line-height: 25px;
 }
+.user {
+  width: 358px;
+  height: 116px;
+  padding: 14px 20px;
+  margin: auto;
+  margin-top: -69px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 20.1px 0px rgba(0, 0, 0, 0.05);
+  background: rgb(228, 246, 225);
+  margin-bottom: 39px;
+}
+.user-avatar {
+  float: left;
+  margin-right: 20px;
+}
+.user-name {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 26px;
+  font-family: "Fira Code", monospace;
+  margin-bottom: 13px;
+}
+.user-description {
+  font-family: "Fira Code", monospace;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 18px;
+}
